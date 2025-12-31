@@ -76,7 +76,5 @@ Hi there! I'm **Sonaton Roy**, a passionate **MERN Stack Developer** and a **Com
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sonatonroyofficial/sonatonroyofficial/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+
 
